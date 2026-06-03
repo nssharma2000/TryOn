@@ -3,8 +3,10 @@
 1. Clone the repository.
 2. Install dependencies.
 
-`npm install`
-`npm run dev`
+```
+npm install
+npm run dev
+```
 
 ## Libraries Used
 
